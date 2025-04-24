@@ -1,1 +1,1 @@
-Hi, help us.
+Hi, help us. somehow Cursor wasnt working in a correct way.
