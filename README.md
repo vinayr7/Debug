@@ -1,1 +1,1 @@
-Hi, help us. somehow Cursor wasnt working in a correct way.
+somehow Cursor wasnt working in a correct way.
